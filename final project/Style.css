@@ -1,0 +1,51 @@
+*
+{
+	font-family: Montserrat;
+}
+
+/*	Service Section*/
+#Service_offered
+{
+	margin-top: 30px;
+}
+
+.services-column
+{
+	padding: 20px;
+	text-align: center;
+}
+
+.Service-content
+{
+	margin-top: 25px;
+}
+/*Gallery Section*/
+
+#Gallery
+{
+	margin-top: 100px	;
+}
+
+.img-container
+{
+	text-align: center;
+}
+
+.p
+{
+	padding-top: 50px;
+}
+
+.b
+{
+	margin-right: 450px;
+	margin-left: 450px;
+	margin-top: 100px;
+}
+
+/*Footer Section*/
+
+.c 
+{
+	padding-left: 10px;
+}
